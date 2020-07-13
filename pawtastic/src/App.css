@@ -1,0 +1,29 @@
+.App{
+    display: flex;
+    
+    align-items: center;
+    flex-direction: column;
+    background-color: antiquewhite;
+    height: 100vh;
+}
+
+.main {
+  height: 60vh;
+  width: 70vw;
+  border-radius: 5px;
+  border: solid blueviolet;
+  display: flex;
+}
+
+.sidestory {
+  height: 60vh;
+  width: 25vw;
+  background-color: crimson;
+}
+
+.form {
+  height: 60vh;
+  width: 45vw;
+  background-color: darksalmon;
+}
+

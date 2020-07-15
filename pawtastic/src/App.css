@@ -1,6 +1,5 @@
 .App{
     display: flex;
-    
     align-items: center;
     flex-direction: column;
     background-color: antiquewhite;
@@ -18,6 +17,7 @@
 .sidestory {
   height: 60vh;
   width: 25vw;
+  color: aliceblue;
   background-color: crimson;
 }
 
@@ -27,3 +27,30 @@
   background-color: darksalmon;
 }
 
+.title{
+  color: rebeccapurple;
+}
+
+.name{
+
+}
+
+.breed{
+
+}
+
+.birthday{
+
+}
+
+.spayed{
+
+}
+
+.weight{
+
+}
+
+.gender{
+
+}
